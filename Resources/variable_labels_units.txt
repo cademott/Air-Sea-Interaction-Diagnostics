@@ -1,0 +1,34 @@
+PRECT,			precipitation,																	mm day~S2~-1~N~
+U850,			~F21~U~B3~850~F21~     ,														m s~S2~-1~N~
+SPD,			|~F22~V~F21~|~F21~,																m s~S2~-1~N~
+LHFLX,	  		~F21~LH~F21~,																	W m~S2~-2~N~
+comptotLH,		~F21~LH*~F21~,																	W m~S2~-2~N~
+wdLH,			~F33~D~F21~q~F18~ D ~F21~|~F22~V~F21~|~F21~'~H-110~~V31~~F21~__~H80~~V-32~~F21~,W m~S2~-2~N~
+tdLH,			~F33~D~F21~q'~F18~ D ~F21~|~F22~V~F21~|~H-33~~V32~~F21~__~H5~~V-32~~F21~,		W m~S2~-2~N~
+ecLH,			~F33~D~F21~q'~F18~ D ~F21~|~F22~V~F21~|~F14~',									W m~S2~-2~N~
+Qair,			~F21~q~B3~air~F21~    (2 m),													g kg~S2~-1
+Qsat,			~F21~q*~B3~SST   ,																g kg~S2~-1
+delQ,			~F33~D~F21~q,																	g kg~S2~-1
+SHFLX,			~F21~SH~F21~,																	W m~S2~-2~N~
+comptotSH,		~F21~SH*~F21~,																	W m~S2~-2~N~
+wdSH,			~F33~D~F21~T~F18~ D ~F21~|~F22~V~F21~|~F21~'~H-110~~V31~~F21~__~H80~~V-32~~F21~,W m~S2~-2~N~
+tdSH,			~F33~D~F21~T'~F18~ D ~F21~|~F22~V~F21~|~H-33~~V32~~F21~__~H5~~V-32~~F21~,		W m~S2~-2~N~
+ecSH,			~F33~D~F21~T'~F18~ D ~F21~|~F22~V~F21~|~F21~',									W m~S2~-2~N~
+Tair,			~F21~T~B3~air~F21~    (2 m),													K
+SST,		  	SST,																			~F34~0~F21~C
+delT,			~F33~D~F21~T,																	K
+Qnet,			~F21~surface Q~F21~~B3~net~F21~    ,											W m~S2~-2~N~
+SWsfc,		  	~F21~surface SW~F21~~B3~net~F21~    ,											W m~S2~-2~N~
+LWsfc,		  	~F21~surface LW~F21~~B3~net~F21~    ,											W m~S2~-2~N~
+MSE,			MSE,														 					J kg~S2~-1~N~  m~S2~-2~N~
+Vmse,			~F34~a~F21~m~F34~q~F21~,														m s~S2~-1~N~
+Vdmdt,			~F34~6~F34~a~F21~m~F34~q~F21~/~F34~6~F21~t~F21~, 								W m~S2~-2~N~
+Vlw,			~F34~a~F21~LW~F34~q~F21~,														W m~S2~-2~N~
+Vsw,			~F34~a~F21~SW~F34~q~F21~,														W m~S2~-2~N~
+Vm_hadv,		-~F34~a~F21~|~F21~V~F21~|~F18~ D ~F34~Q~F21~m~F34~q~F21~,						W m~S2~-2~N~
+Vudmdx,			-~F34~a~F21~u~F18~ D ~F34~6~F21~m~F21~/~F34~6~F21~x~F34~q~F21~,					W m~S2~-2~N~
+Vvdmdy,			-~F34~a~F21~v~F18~ D ~F34~6~F21~m~F21~/~F34~6~F21~y~F34~q~F21~,					W m~S2~-2~N~
+Vomegadmdp,		-~F34~a~F33~w~F18~ D ~F34~6~F21~m~F21~/~F34~6~F21~p~F34~q~F21~,					W m~S2~-2~N~
+omegadqdp850,	-~F33~w~F18~ D ~F34~6~F21~q~F21~/~F34~6~F21~p~F21~~B3~850~F21~,					g kg~S2~-1~N~  day~S2~-1~N~
+PW,				precipitable water,																kg m~S2~-2~N~
+RHsfc,			Sfc. RH,																		%

@@ -1,0 +1,2 @@
+PW_GradLat,	-5.0,	  5.0,		 1.0,	PW Equatorward gradient,					[kg m~S2~-2  ]/[m],	nomask
+PW_GradLon,	-1.25,	  1.25,		 0.25,	PW eastward gradient,					[kg m~S2~-2  ]/[m],	nomask

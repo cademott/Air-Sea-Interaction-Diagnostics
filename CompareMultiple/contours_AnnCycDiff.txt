@@ -1,0 +1,6 @@
+PW_AnnCyc_lon,		 -10.0,	 10.0,		 2.0,	precipitable water,						kg m~S2~-2~N~,					nomask
+PW_AnnCyc_lat, 		 -10.0,	 10.0,		 2.0,	precipitable water,						kg m~S2~-2~N~,					nomask
+PW_GradLonEq_AnnCyc,  -5.0,	  5.0,		 1.0,	~F34~6~F21~PW/~F34~6~F14~x~F21~,		[kg m~S2~-2  ]/[m~S2~-1  ]~N~,	nomask
+PW_GradLonS_AnnCyc,   -5.0,	  5.0,		 1.0,	~F34~6~F21~PW/~F34~6~F14~x~F21~,		[kg m~S2~-2  ]/[m~S2~-1  ]~N~,	nomask
+PW_GradLatN_AnnCyc,  -10.0,	 10.0,		 2.0,	~F34~6~F21~PW/~F34~6~F14~y~F21~,		[kg m~S2~-2  ]/[m~S2~-1  ]~N~,	nomask
+PW_GradLatS_AnnCyc,  -10.0,	 10.0,		 2.0,	~F34~6~F21~PW/~F34~6~F14~y~F21~,		[kg m~S2~-2  ]/[m~S2~-1  ]~N~,	nomask

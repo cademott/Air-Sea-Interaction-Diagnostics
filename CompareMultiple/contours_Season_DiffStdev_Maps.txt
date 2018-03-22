@@ -1,0 +1,19 @@
+PRECT,		-2.5,	  2.5,		 0.5,	nomask
+U850,		-5.0,	  5.0,		 1.0,	nomask
+SPD,		-1.25,	  1.25,		 0.25,	nomask
+LHFLX,	   -10.0,	 10.0,		 2.0,	mask
+SHFLX,		-1.0,	  1.0,		 0.2,	mask
+SST,		-0.25,	  0.25,		 0.05,	mask
+Qnet,	   -25.0,	 25.0,		 5.0,	mask
+SWsfc,	   -25.0,	 25.0,		 5.0,	mask
+LWsfc,	   -25.0,	 25.0,		 5.0, 	mask
+MSE,	   320.0,	340.0,		20.0,	nomask
+wdLH,	   -12.5,	 12.5,		 2.5,	mask
+tdLH,	   -12.5,	 12.5,		 2.5,	mask
+ecLH,	   -12.5,	 12.5,		 2.5,	mask
+comptotLH, -12.5,	 12.5,		 2.5,	mask
+wdSH,	   -1.25,	 1.25,		 0.25,	mask
+tdSH,	   -1.25,	 1.25,		 0.25,	mask
+ecSH,	   -1.25,	 1.25,		 0.25,	mask
+comptotSH, -1.25,	 1.25,		 0.25,	mask
+

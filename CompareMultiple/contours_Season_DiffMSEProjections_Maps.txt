@@ -1,0 +1,10 @@
+Vdmdt,			 0.0,	 12.0,		 2.0,	~F34~6~F18~O~F14~m~F18~P~F21~/~F34~6~F14~t~F21~, 				W m~S2~-2~N~,		nomask
+Vmse,			-5.0,	  5.0,		 1.0,	~F18~O~F14~m~F18~P~F21~,										m s~S2~-1~N~,		nomask
+Vlw,		   -50.0,	 50.0,		 10.0,	~F18~O~F14~LW~F18~P~F21~,										W m~S2~-2~N~,		nomask
+Vsw,		   -50.0,	 50.0,		 10.0,	~F18~O~F14~SW~F18~P~F21~,										W m~S2~-2~N~,		nomask
+LHFLX,		   -50.0,	 50.0,		 10.0,	~F14~LH~F21~,													W m~S2~-2~N~,		nomask
+SHFLX,		   -5.0,	 5.0,		 1.0,	~F14~SH~F21~,													W m~S2~-2~N~,		nomask
+Vm_hadv,	   -50.0,	 50.0,		 10.0,	-~F18~O~F21~|~F14~V~F21~|~F18~ D ~F34~Q~F14~m~F18~P~F21~,		W m~S2~-2~N~,		nomask
+Vudmdx,		   -50.0,	 50.0,		 10.0,	-~F18~O~F14~u~F18~ D ~F34~6~F14~m~F21~/~F34~6~F14~x~F18~P~F21~,	W m~S2~-2~N~,		nomask
+Vvdmdy,		   -50.0,	 50.0,		 10.0, 	-~F18~O~F14~v~F18~ D ~F34~6~F14~m~F21~/~F34~6~F14~y~F18~P~F21~,	W m~S2~-2~N~,		nomask
+Vomegadmdp,	   -50.0,	 50.0,		 10.0,	-~F18~O~F8~w~F18~ D ~F34~6~F14~m~F21~/~F34~6~F14~p~F18~P~F21~,	W m~S2~-2~N~,		nomask

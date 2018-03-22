@@ -1,0 +1,2107 @@
+Fri Mar 16 14:12:28 MDT 2018
+ERAI
+(0)	 
+(0)	=============== in make_L1.3a_mean_u850.ncl =================
+(0)	diro = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/
+(0)	case = ERAI
+(0)	u850...
+(0)	filo = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L1.3a_mean_u850.19860101-20131231.u850_SeasonMean.Nov-Apr.nc
+(0)	filo = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L1.3a_mean_u850.19860101-20131231.u850_SeasonMean.May-Oct.nc
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= PRECT
+(0)	rain factor = 8.64e+07
+(0)	outvarName	= PRECT
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= LHFLX
+(0)	outvarName	= LHFLX
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= SHFLX
+(0)	outvarName	= SHFLX
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= SNLW
+(0)	outvarName	= LWsfc
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= SNSW
+(0)	outvarName	= SWsfc
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= q2m
+(0)	outvarName	= Qair
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= T2m
+(0)	outvarName	= Tair
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= SKT
+(0)	outvarName	= SST
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= PS
+(0)	outvarName	= SFCP
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Qnet
+(0)	outvarName	= Qnet
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= SKT_smSST
+(0)	outvarName	= SST_smSST
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= SPD
+(0)	outvarName	= SPD
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Qsat
+(0)	outvarName	= Qsat
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Qsat_smSST
+(0)	outvarName	= Qsat_smSST
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= delQ
+(0)	outvarName	= delQ
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= delQ_smSST
+(0)	outvarName	= delQ_smSST
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= delT
+(0)	outvarName	= delT
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= delT_smSST
+(0)	outvarName	= delT_smSST
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= RHsfc
+(0)	outvarName	= RHsfc
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vmse
+(0)	outvarName	= Vmse
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vdmdt
+(0)	outvarName	= Vdmdt
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vm_hadv
+(0)	outvarName	= Vm_hadv
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vudmdx
+(0)	outvarName	= Vudmdx
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vvdmdy
+(0)	outvarName	= Vvdmdy
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vomegadmdp
+(0)	outvarName	= Vomegadmdp
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vlw
+(0)	outvarName	= Vlw
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= Vsw
+(0)	outvarName	= Vsw
+(0)	 
+(0)	=============== in make_L1.4_mean_stdev_map.ncl =================
+(0)	inName		= U850
+(0)	outvarName	= U850
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= wdLH
+(0)	outvarName	= wdLH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= wdLH_smSST
+(0)	outvarName	= wdLH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= tdLH
+(0)	outvarName	= tdLH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= tdLH_smSST
+(0)	outvarName	= tdLH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= ecLH
+(0)	outvarName	= ecLH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= ecLH_smSST
+(0)	outvarName	= ecLH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= comptotLH
+(0)	outvarName	= comptotLH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= comptotLH_smSST
+(0)	outvarName	= comptotLH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= wdSH
+(0)	outvarName	= wdSH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= wdSH_smSST
+(0)	outvarName	= wdSH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= tdSH
+(0)	outvarName	= tdSH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= tdSH_smSST
+(0)	outvarName	= tdSH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= ecSH
+(0)	outvarName	= ecSH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= ecSH_smSST
+(0)	outvarName	= ecSH_smSST
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= comptotSH
+(0)	outvarName	= comptotSH
+(0)	 
+(0)	================ in make_L1.5_stdev_map.ncl =================
+(0)	inName	= comptotSH_smSST
+(0)	outvarName	= comptotSH_smSST
+(0)	 
+(0)	=============== in make_L1.6_U850_WesterlyPct.ncl =================
+(0)	diro = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/
+(0)	case = ERAI
+(0)	 
+(0)	min=19860101   max=20131231
+(0)	 
+(0)	percent days where U850 > 0 (%) : min=0   max=98.6995
+(0)	
+(0)	============== in make_L1.7_RH_byWindSST_PDF.ncl ==============
+(0)	read SST...
+(0)	minPDF_DYN= 0.000788177   maxPDF_DYN = 5.78365
+(0)	minPDF_TGC= 0.000788184   maxPDF_TGC = 7.96223
+(0)	minRH_DYN= 71.1695   maxRH_DYN = 88.0304
+(0)	minRH_TGC= 72.3231   maxRH_TGC = 91.7994
+(0)	read SST...
+(0)	minPDF_DYN= 0.000776398   maxPDF_DYN = 5.57065
+(0)	minPDF_TGC= 0.000776398   maxPDF_TGC = 5.80435
+(0)	minRH_DYN= 68.7095   maxRH_DYN = 90.7461
+(0)	minRH_TGC= 60.7354   maxRH_TGC = 90.876
+(0)	
+(0)	============= in make_L1.8_SST_skewness.ncl =============
+(0)	 
+(0)	SST skewness (K) : min=-1.41416   max=0.755692
+(0)	 
+(0)	median SST (K) : min=-0.986603   max=0.409088
+(0)	 
+(0)	SST skewness (K) : min=-3.00155   max=0.662773
+(0)	 
+(0)	median SST (K) : min=-0.304123   max=0.770523
+(0)	=============== in plot_L1.1_SfcVariables_MeanStd.ncl =================
+(0)	pType = png
+(0)	nPanels = 10
+(0)	nPanels = 10
+(0)	=============== in plot_L1.2_SfcEnergyBudget_MeanStd.ncl =================
+(0)	nPanels = 10
+(0)	nPanels = 10
+(0)	=============== in plot_L1.3_LHFluxComponent_Std_diff.ncl =================
+(0)	nPanels = 16
+(0)	nPanels = 16
+(0)	=============== in plot_L1.3_SHFluxComponent_Std_diff.ncl =================
+(0)	nPanels = 16
+(0)	nPanels = 16
+(0)	=============== in plot_L1.4_LHFluxComponent_StdevRatio.ncl =================
+(0)	nPanels = 10
+(0)	nPanels = 10
+(0)	=============== in plot_L1.4_SHFluxComponent_StdevRatio.ncl =================
+(0)	nPanels = 10
+(0)	nPanels = 10
+(0)	============== in plot_L1.5_RH_byWindSST_PDF.ncl =============
+(0)	=============== in plot_L1.6_U850_WesterlyPct.ncl =================
+(0)	=============== in plot_L1.7_MSE_dMSEdt_MeanStd.ncl =================
+(0)	 
+(0)	Vertically integrated MSE (J/m**2) : min=1.64538e+09   max=3.32609e+09
+(0)	 
+(0)	Vertically integrated MSE (J/m**2) : min=1.71294e+09   max=3.33297e+09
+(0)	=============== in plot_L1.8_SST_skewness.ncl =================
+(0)	gsn_panel: warning: you have more plots than you have panels.
+(0)	Only 1 plots will be drawn.
+(0)	gsn_panel: warning: you have more plots than you have panels.
+(0)	Only 1 plots will be drawn.
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = PRECT
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= PRECT
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= PRECT
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = LHFLX
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LHFLX
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LHFLX
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = SHFLX
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SHFLX
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SHFLX
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = SNLW
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LWsfc
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LWsfc
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = SNSW
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SWsfc
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SWsfc
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = q2m
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qair
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qair
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = T2m
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Tair
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Tair
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = SKT
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = PS
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SFCP
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SFCP
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Qnet
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qnet
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qnet
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = SKT_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = SPD
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SPD
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SPD
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Qsat
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qsat
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qsat
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Qsat_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qsat_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qsat_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = delQ
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = delQ_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = delT
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = delT_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = RHsfc
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= RHsfc
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= RHsfc
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotLH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotLH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdLH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdLH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdLH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdLH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecLH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecLH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotSH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotSH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdSH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdSH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdSH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdSH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecSH
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecSH_smSST
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH_smSST
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH_smSST
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vmse
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vmse
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vmse
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vdmdt
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vdmdt
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vdmdt
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vm_hadv
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vm_hadv
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vm_hadv
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vudmdx
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vudmdx
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vudmdx
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vvdmdy
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vvdmdy
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vvdmdy
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vomegadmdp
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vomegadmdp
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vomegadmdp
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vlw
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vlw
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vlw
+(0)	
+(0)	============== in make_L2.1_regression_propagation.ncl ==============
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vsw
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vsw
+(0)	processing May-Oct
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vsw
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = PRECT
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= PRECT
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = LHFLX
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LHFLX
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = SHFLX
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SHFLX
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = SNLW
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LWsfc
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = SNSW
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SWsfc
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = q2m
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qair
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = T2m
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Tair
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = PS
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SFCP
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Qnet
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qnet
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = SKT
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = SKT_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = SPD
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SPD
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Qsat
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qsat
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Qsat_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qsat_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = delQ
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = delQ_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = delT
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = delT_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = RHsfc
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= RHsfc
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotLH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotLH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdLH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdLH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdLH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdLH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecLH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecLH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotSH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = comptotSH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdSH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = wdSH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdSH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = tdSH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecSH
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = ecSH_smSST
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vmse
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vmse
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vdmdt
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vdmdt
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vm_hadv
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vm_hadv
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vudmdx
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vudmdx
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vvdmdy
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vvdmdy
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vomegadmdp
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vomegadmdp
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vlw
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vlw
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = PRECT
+(0)	regressed variable  = Vsw
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vsw
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vmse
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vmse
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vdmdt
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vdmdt
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vm_hadv
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vm_hadv
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vudmdx
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vudmdx
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vvdmdy
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vvdmdy
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vomegadmdp
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vomegadmdp
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vlw
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vlw
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = Vsw
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vsw
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = comptotLH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = comptotLH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = wdLH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = wdLH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = tdLH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = tdLH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = ecLH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecLH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = ecLH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecLH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = comptotSH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = comptotSH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = wdSH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = wdSH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = tdSH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = tdSH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdSH_smSST
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = ecSH
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecSH
+(0)	
+(0)	============== in make_L2.2_regression_nopropagation.ncl ==============
+(0)	OceanOnly = true
+(0)	base point variable = Vmse
+(0)	regressed variable  = ecSH_smSST
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecSH_smSST
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= PRECT
+(0)	outvarName1	= PRECT
+(0)	rain factor = 8.64e+07
+(0)	sd	= 5.13922
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= LHFLX
+(0)	outvarName1	= LHFLX
+(0)	sd	= 30.3178
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= SHFLX
+(0)	outvarName1	= SHFLX
+(0)	sd	= 6.93199
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= q2m
+(0)	outvarName1	= Qair
+(0)	sd	= 0.919056
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= SSTeffect_LH
+(0)	outvarName1	= SSTeffect_LH
+(0)	sd	= 5.78717
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= SSTeffect_SH
+(0)	outvarName1	= SSTeffect_SH
+(0)	sd	= 8.53699
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Qsat
+(0)	outvarName1	= Qsat
+(0)	sd	= 0.934071
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= delQ
+(0)	outvarName1	= delQ
+(0)	sd	= 1.33878
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= delQ_smSST
+(0)	outvarName1	= delQ_smSST
+(0)	sd	= 0.953459
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= delT
+(0)	outvarName1	= delT
+(0)	sd	= 0.485815
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= delT_smSST
+(0)	outvarName1	= delT_smSST
+(0)	sd	= 0.691289
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= comptotLH
+(0)	outvarName1	= comptotLH
+(0)	sd	= 28.046
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= comptotLH_smSST
+(0)	outvarName1	= comptotLH_smSST
+(0)	sd	= 28.1633
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= tdLH
+(0)	outvarName1	= tdLH
+(0)	sd	= 13.0445
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= tdLH_smSST
+(0)	outvarName1	= tdLH_smSST
+(0)	sd	= 12.1484
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= ecLH
+(0)	outvarName1	= ecLH
+(0)	sd	= 3.82554
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= ecLH_smSST
+(0)	outvarName1	= ecLH_smSST
+(0)	sd	= 3.46044
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= comptotSH
+(0)	outvarName1	= comptotSH
+(0)	sd	= 5.05022
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= comptotSH_smSST
+(0)	outvarName1	= comptotSH_smSST
+(0)	sd	= 8.8642
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= tdSH
+(0)	outvarName1	= tdSH
+(0)	sd	= 3.86174
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= tdSH_smSST
+(0)	outvarName1	= tdSH_smSST
+(0)	sd	= 7.69646
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= ecSH
+(0)	outvarName1	= ecSH
+(0)	sd	= 1.28032
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= ecSH_smSST
+(0)	outvarName1	= ecSH_smSST
+(0)	sd	= 2.70661
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Vmse
+(0)	outvarName1	= Vmse
+(0)	sd	= 13.4974
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Vm_hadv
+(0)	outvarName1	= Vm_hadv
+(0)	sd	= 146.293
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Vudmdx
+(0)	outvarName1	= Vudmdx
+(0)	sd	= 123.81
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Vvdmdy
+(0)	outvarName1	= Vvdmdy
+(0)	sd	= 104.663
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Vomegadmdp
+(0)	outvarName1	= Vomegadmdp
+(0)	sd	= 67.9133
+(0)	 
+(0)	============== in make_L2.3_wkSpaceTime_AirSea.ncl ==============
+(0)	variable 	= Vlw
+(0)	outvarName1	= Vlw
+(0)	sd	= 18.0366
+(0)	 
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============= in make_L2.4_wkSpaceTime_Ratio.ncl =============
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SST
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.SST.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= PRECT
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.PRECT.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LHFLX
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.LHFLX.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= U850
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.U850.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Qair
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Qair.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Tair
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Tair.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SFCP
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.SFCP.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SSTeffect_LH
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.SSTeffect_LH.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SSTeffect_SH
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.SSTeffect_SH.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vdmdt
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Vdmdt.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vlw
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Vlw.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vm_hadv
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Vm_hadv.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vomegadmdp
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Vomegadmdp.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vudmdx
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Vudmdx.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vvdmdy
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.Vvdmdy.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= U850
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.U850.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delQ
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.delQ.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= delT
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.delT.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SSTeffect_LH
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.SSTeffect_LH.Nov-Apr.nc
+(0)	
+(0)	============== in make_L2.5_regression_basepoint.ncl ==============
+(0)	processing Nov-Apr
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SSTeffect_SH
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L2.5_regression_basepoint.19860101-20131231.PRECT.SSTeffect_SH.Nov-Apr.nc
+(0)	=============== in plot_L2.1_LHFluxComponent_propagation.ncl =================
+(0)	
+(0)	=============== in plot_L2.1_SHFluxComponent_propagation.ncl =================
+(0)	
+(0)	=============== in plot_L2.1_SfcEnergyBalance_propagation.ncl =================
+(0)	
+(0)	=============== in plot_L2.1_MSEbudget_propagation.ncl =================
+(0)	nPanels = 10
+(0)	nPanels = 10
+(0)	
+(0)	=============== in plot_L2.2_LHFluxComponent_nopropagation.ncl =================
+(0)	
+(0)	=============== in plot_L2.2_SHFluxComponent_nopropagation.ncl =================
+(0)	
+(0)	=============== in plot_L2.2_SfcEnergyBalance_nopropagation.ncl =================
+(0)	
+(0)	=============== in plot_L2.2_MSEbudget_nopropagation.ncl =================
+(0)	nPanels = 10
+(0)	nPanels = 10
+(0)	
+(0)	=============== in plot_L2.2_SSTEffect_nopropagation.ncl =================
+(0)	nPanels = 8
+(0)	creating plot page...
+(0)	nPanels = 8
+(0)	creating plot page...
+(0)	
+(0)	============= in plot_L2.3_SfcEnergy_lags.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L2.3_SfcEnergy_lags.19860101-20131231.Nov-Apr
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L2.3_SfcEnergy_lags.19860101-20131231.May-Oct
+(0)	
+(0)	============= in plot_L2.4_SSTEffect_Rain_LH_lags.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L2.4_SSTEffect_Rain_LH_lags_10S-10N_60E-70E.19860101-20131231.Nov-Apr
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L2.4_SSTEffect_Rain_LH_lags_10S-10N_60E-70E.19860101-20131231.May-Oct
+(0)	
+(0)	============= in plot_L2.4_SSTEffect_Rain_SH_lags.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L2.4_SSTEffect_Rain_SH_lags_10S-10N_60E-70E.19860101-20131231.Nov-Apr
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L2.4_SSTEffect_Rain_SH_lags_10S-10N_60E-70E.19860101-20131231.May-Oct
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = Vm_hadv
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vm_hadv
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = Vudmdx
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vudmdx
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = Vvdmdy
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vvdmdy
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = Vomegadmdp
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vomegadmdp
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = Vlw
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vlw
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = Vsw
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= Vsw
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = LHFLX
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= LHFLX
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = SHFLX
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= SHFLX
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = SSTeffect_LH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= SSTeffect_LH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = SSTeffect_SH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= SSTeffect_SH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = comptotLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = comptotLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = wdLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = wdLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = tdLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = tdLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = ecLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = ecLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = comptotSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = comptotSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= comptotSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = wdSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = wdSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= wdSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = tdSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = tdSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= tdSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = ecSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vmse
+(0)	  dependent variable = ecSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vmse
+(0)	outvarName2	= ecSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = Vm_hadv
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= Vm_hadv
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = Vudmdx
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= Vudmdx
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = Vvdmdy
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= Vvdmdy
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = Vomegadmdp
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= Vomegadmdp
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = Vlw
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= Vlw
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = Vsw
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= Vsw
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = LHFLX
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= LHFLX
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = SHFLX
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= SHFLX
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = SSTeffect_LH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= SSTeffect_LH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = SSTeffect_SH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= SSTeffect_SH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = comptotLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= comptotLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = comptotLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= comptotLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = wdLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= wdLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = wdLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= wdLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = tdLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= tdLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = tdLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= tdLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = ecLH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= ecLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = ecLH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= ecLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = comptotSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= comptotSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = comptotSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= comptotSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = wdSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= wdSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = wdSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= wdSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = tdSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= tdSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = tdSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= tdSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = ecSH
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= ecSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Vdmdt
+(0)	  dependent variable = ecSH_smSST
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Vdmdt
+(0)	outvarName2	= ecSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = LHFLX
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= LHFLX
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = comptotLH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = comptotLH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = wdLH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = wdLH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = tdLH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = tdLH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = ecLH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = ecLH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecLH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = SHFLX
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= SHFLX
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = comptotSH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = comptotSH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= comptotSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = wdSH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = wdSH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= wdSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = tdSH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = tdSH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= tdSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = ecSH
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = ecSH_smSST
+(0)	converting mm/day to W/m**2...
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= ecSH_smSST
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = PRECT
+(0)	  dependent variable = Vmse
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= PRECT
+(0)	outvarName2	= Vmse
+(0)	
+(0)	============= in make_L3.1_regression_map.ncl =============
+(0)	independent variable = Qnet
+(0)	  dependent variable = dSSTdt
+(0)	Processing Nov-Apr...
+(0)	Processing May-Oct...
+(0)	outvarName1	= Qnet
+(0)	outvarName2	= dSSTdt
+(0)	
+(0)	============= in make_L3.2_MSE_PDF_lineplots.ncl =============
+(0)	
+(0)	============= in make_L3.3_MSE_ModProjectionMaps.ncl =============
+(0)	filtering mse, dmdt...
+(0)	computing normalized projections...
+(0)	computing normalized projections...
+(0)	
+(0)	============= in plot_L3.4_SSTeffectSummary.ncl =============
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L3.4_SSTeffect.19860101-20131231.Vmse.SSTeffect_LH.Nov-Apr.nc
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L3.1_regression_map.19860101-20131231.Vdmdt.SSTeffect.Nov-Apr.nc
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L3.4_SSTeffect.19860101-20131231.Vmse.SSTeffect_LH.May-Oct.nc
+(0)	output file = /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/proc/ERAI.make_L3.1_regression_map.19860101-20131231.Vdmdt.SSTeffect.May-Oct.nc
+(0)	============= in plot_L3.1_MSEbudget_regressionMaps.ncl =============
+(0)	nPanels = 16
+(0)	nPanels = 16
+(0)	============= in plot_L3.2_MSE_LHFluxComp_regressions_diff.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_MSE_LHFluxComp_regressions.19860101-20131231.Nov-Apr
+(0)	nPanels = 10
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_MSE_LHFluxComp_regressions.19860101-20131231.May-Oct
+(0)	nPanels = 10
+(0)	============= in plot_L3.2_MSE_LHFluxComp_regressions.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_MSE_SHFluxComp_regressions.19860101-20131231.Nov-Apr
+(0)	nPanels = 10
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_MSE_SHFluxComp_regressions.19860101-20131231.May-Oct
+(0)	nPanels = 10
+(0)	============= in plot_L3.2_dMSEdt_LHFluxComp_regressions_diff.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_dMSEdt_LHFluxComp_regressions.19860101-20131231.Nov-Apr
+(0)	nPanels = 10
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_dMSEdt_LHFluxComp_regressions.19860101-20131231.May-Oct
+(0)	nPanels = 10
+(0)	============= in plot_L3.2_dMSEdt_LHFluxComp_regressions_diff.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_dMSEdt_SHFluxComp_regressions.19860101-20131231.Nov-Apr
+(0)	nPanels = 10
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.2_dMSEdt_SHFluxComp_regressions.19860101-20131231.May-Oct
+(0)	nPanels = 10
+(0)	============= in plot_L3.3_QnetdSSTdt_regressionMaps.ncl =============
+(0)	============= in plot_L3.4_SSTeffectSummary.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.4_SSTeffectSummary.19860101-20131231.Nov-Apr
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.4_SSTeffectSummary.19860101-20131231.May-Oct
+(0)	
+(0)	============= in plot_L3.5_MSE_PDF_lineplots.ncl =============
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.5_MSE_PDF_lineplots.19860101-20131231.Nov-Apr
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.5_MSE_PDF_lineplots.19860101-20131231.May-Oct
+(0)	=============== in plot_L3.6_MSE_ModProjectionMaps.ncl =================
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.6_MSE_ModProjectionMaps.19860101-20131231.Nov-Apr
+(0)	--------- making /volumes/disk3/Data/ecmwf/ERA-Interim/daily/DBtest/plots/ERAI.plot_L3.6_MSE_ModProjectionMaps.19860101-20131231.May-Oct
+Fri Mar 16 16:10:11 MDT 2018

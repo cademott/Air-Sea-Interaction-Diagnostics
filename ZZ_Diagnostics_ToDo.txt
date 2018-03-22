@@ -1,0 +1,25 @@
+Air-Sea diagnostics wish list:
+
+* In make_L0.0_FillValue_check.ncl, write variable names needing a _FillValue
+	attribute to a text file that is read in by make_L0.1_Add_FillValue.ncl.
+	This will eliminate the need to manually step through the input data check.
+	
+* In make_L2.3_wkSpaceTime_AirSea, let file names have user-specified variable names 
+	(right now they are hard-coded in wk_filter.ncl).
+	
+* Create "SST effect" time series (one for LH, one for SH)
+
+* In plot_L3.1_MSEbudget_regression_Maps.ncl, move significance testing
+	to make_L3.1_regression_map.ncl
+	
+* Write code to distill diagnostics into metrics, make scatter plots vs skill.
+
+* Add code to investigate if +SST' or -SST' has larger effect on MSE, dMSE/dt
+
+* In make_L2.2(L2.1)_regression_no(propagation).ncl, test if results or significance
+	differ if regressions are done using only base point variable when > 1 stdev.
+	
+* in MultiPlot programs, manually place the column headings since there is excess
+	white space.  This will also remove a NCL v6.4.0 dependency.
+	
+* add plot_wkSpaceTime_Ratio.ncl (this exists somewhere).

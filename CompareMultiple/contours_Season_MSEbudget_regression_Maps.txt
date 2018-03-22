@@ -1,0 +1,10 @@
+Vdmdt,			 0.0,	 12.0,		 2.0,	nomask
+Vmse,			-5.0,	  5.0,		 1.0,	nomask
+Vlw,		   -30.0,	 30.0,		 6.0,	nomask
+Vsw,		   -30.0,	 30.0,		 6.0,	nomask
+LHFLX,		   -30.0,	 30.0,		 6.0,	nomask
+SHFLX,		   -30.0,	 30.0,		 6.0,	nomask
+Vm_hadv,	  -100.0,	100.0,		20.0,	nomask
+Vudmdx,		  -100.0,	100.0,		20.0,	nomask
+Vvdmdy,		  -100.0,	100.0,		20.0, 	nomask
+Vomegadmdp,	   -30.0,	 30.0,		 6.0,	nomask
